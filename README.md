@@ -16,6 +16,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
 ### 快速開發工具
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -23,6 +24,19 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+___
+### Side Project
+**【 DreamBoost 夢想家募資網 】** <br />
+* [GitHub Repo](https://github.com/PinyiW0/DreamBoost/tree/main)<br />
+* [GitHub Pages](https://pinyiw0.github.io/DreamBoost/#/)<br />
+* [GitHub Pages -後台管理頁](https://pinyiw0.github.io/DreamBoost/#/admin/login)<br /><br />
+
+**【 搜趣找喵 Search for Cat 】流浪動物收容所檢索網** <br />
+* [GitHub Repo](https://github.com/PinyiW0/project_SearchforMeow)<br />
+* [GitHub Pages](https://pinyiw0.github.io/project_SearchforMeow/)
+
+---
+
 
 <br /><br />
 ### GitHub Activity
