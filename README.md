@@ -3,11 +3,6 @@
   <br><br />
   <samp>
  Hi 我是樂樂 👋 <br />
- <h2 align="center"> 🌱 決心與努力，迎接前端挑戰! </h2> 
-<p align="center">自我挑戰與成長是我工作動力所在，我喜歡在解決問題的過程中去精進和突破自己，從中成長。</p>
-  </samp>
-</p>
-<br />
 
 ### 專業技術
 ![Vue 3](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
