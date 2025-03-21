@@ -40,7 +40,7 @@
 
 📌 主要技術：Nuxt3, Vue3 Composition API, TypeScript, UnoCSS
 * [GitHub Repo](https://github.com/PinyiW0/hotelBookingWeb)<br />
-* [網站連結]([https://pinyiw0.github.io/DreamBoost/#/](https://two024-hotelbookingweb.onrender.com/))<br />
+* [網站連結](https://two025hotelbookingweb.onrender.com/)<br />
 
 <br />
 
