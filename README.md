@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=220&section=header&text=Pinyi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Frontend%20Engineer%20|%20Vue%203%20|%20Nuxt&descAlignY=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003d29,50:00DC82,100:00b368&height=220&section=header&text=Pinyi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Frontend%20Engineer%20|%20Vue%203%20|%20Nuxt&descAlignY=50&descSize=18" width="100%"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/PinyiW0?logo=GitHub&style=for-the-badge&color=00DC82)](https://github.com/PinyiW0)
 [![GitHub Stars](https://img.shields.io/github/stars/PinyiW0?logo=github&style=for-the-badge&color=00DC82)](https://github.com/PinyiW0)
@@ -36,11 +36,10 @@ const lele: FrontendDeveloper = {
 
 | 領域 | 技術 |
 |------|------|
-| **核心框架** | Vue 3 · Nuxt · TypeScript |
+| **核心框架** | Vue 3 · Nuxt · TypeScript · Vite |
 | **樣式 / UI** | Nuxt UI · Tailwind CSS · UnoCSS · Bootstrap 5 · SCSS |
-| **工程實踐** | SSR/SSG · SEO 優化 · i18n · GTM/GA 追蹤 · TDD |
-| **開發工具** | Vite · Git Flow · GitHub Actions  |
-| **AI 工程化** | Claude Code · Claude Code Skills · SDD · Context Engineering |
+| **工程實踐** | SSR/SSG · SEO 優化 · i18n · GTM/GA · TDD · Git Flow · GitHub Actions |
+| **AI 工程化** | Claude Code · GitHub Copilot · Skills · SDD · Context Engineering |
 
 ---
 
@@ -88,4 +87,4 @@ const lele: FrontendDeveloper = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003d29,50:00DC82,100:00b368&height=100&section=footer" width="100%"/>
