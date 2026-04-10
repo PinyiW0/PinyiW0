@@ -1,88 +1,91 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br />
-  <samp>
- Hi 我是樂樂 👋 <br />
-  目前是一名前端工程師，專注於 Vue3.js 及 Nuxt3，熱衷於打造高效、動態且直覺的使用者體驗。
-  </samp>
-</p>
+<div align="center">
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=220&section=header&text=PinyiW0&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Frontend%20Engineer%20|%20Vue%203%20|%20Nuxt&descAlignY=50&descSize=18" width="100%"/>
 
-## 🔷 技術專長
+[![GitHub followers](https://img.shields.io/github/followers/PinyiW0?logo=GitHub&style=for-the-badge&color=00DC82)](https://github.com/PinyiW0)
+[![GitHub Stars](https://img.shields.io/github/stars/PinyiW0?logo=github&style=for-the-badge&color=00DC82)](https://github.com/PinyiW0)
+[![Profile Views](https://komarev.com/ghpvc/?username=PinyiW0&style=for-the-badge&color=00DC82)](https://github.com/PinyiW0)
 
-### 前端技術
-![Vue 3](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt 3](https://img.shields.io/badge/Nuxt3-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![UnoCSS](https://img.shields.io/badge/UnoCSS-333?style=for-the-badge&logo=uno&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Element Plus](https://img.shields.io/badge/ElementPlus-409EFF?style=for-the-badge&logo=element&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-### 快速開發 & 工具
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Scss](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-<br />
-
-## 🔷 精選專案
-### **【 Enjoyment Luxury Hotel 享樂酒店訂房平台 】** <br />
-> **提供便捷的訂房流程，獨立部署於 Render，整合 MongoDB 資料庫，提供便捷的訂房體驗，並優化 SEO**
-
-📌 主要技術：Nuxt3, Vue3 Composition API, TypeScript, UnoCSS
-* [GitHub Repo](https://github.com/PinyiW0/hotelBookingWeb)<br />
-* [網站連結](https://two025hotelbookingweb.onrender.com/)<br />
-
-<br />
-
-### **【 DreamBoost 夢想家募資網 】** <br />
-> **一個專為夢想家打造的募資平台，提供簡潔直觀的 UI/UX**
-
-📌 主要技術：Vue3 Options API, Bootstrap5, Vite, ESLint
-* [GitHub Repo](https://github.com/PinyiW0/DreamBoost/tree/main)<br />
-* [網站連結](https://pinyiw0.github.io/DreamBoost/#/)<br />
-* [後台管理系統](https://pinyiw0.github.io/DreamBoost/#/admin/login)<br /><br />
-
-<br />
-
-### **【 搜趣找喵 Search for Cat 】流浪動物收容所檢索網** <br />
-> **整合流浪動物收容所資訊的檢索平台，讓使用者能夠快速找到貓咪領養資訊**
-
-📌 主要技術：Bootstrap5, Vite
-* [GitHub Repo](https://github.com/PinyiW0/project_SearchforMeow)<br />
-* [網站連結](https://pinyiw0.github.io/project_SearchforMeow/)
-
----
-
-
-<br /><br />
-### GitHub 活躍度
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=PinyiW0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="PinyiW0's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinyiW0&layout=compact&theme=buefy&hide_border=true" /> </a> | <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinyiW0" /> </div> |
-| ------------- | ------------- | ------------- |
-
-
-<br />
-
-<div style="margin: 40px 0">
-   <a href="https://github.com/PinyiW0/github-profile-views-counter">
-       <img width="120px" src="https://komarev.com/ghpvc/?username=PinyiW0&color=DE002D">
-   </a>
 </div>
 
+## About Me
+
+```typescript
+const lele: FrontendDeveloper = {
+  role: 'Frontend Engineer',
+  focus: ['Vue 3', 'Nuxt', 'TypeScript'],
+  experience: [
+    'Nuxt 3 → 4 升級與標準化模板建立',
+    '設計可複用模組體系（Composable + 配置化）',
+    '將 LLM 納入前端工程流程',
+  ],
+  communities: ['六角學院專題教練', '12 週成長計劃主辦人'],
+  motto: '能做也能教',
+}
+```
+
 ---
 
-<p align='center'>
-   📫 如何聯絡我: <a href='mailto:wpypy8@gmail.com'>wpypy8@gmail.com</a>
-</p>
+## Tech Stack
 
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,bootstrap,sass,css,html,vite,git,github,figma)](https://skillicons.dev)
+
+</div>
+
+| 領域 | 技術 |
+|------|------|
+| **核心框架** | Vue 3 · Nuxt · TypeScript |
+| **樣式 / UI** | Nuxt UI · Tailwind CSS · UnoCSS · Bootstrap 5 · SCSS |
+| **工程實踐** | SSR/SSG · SEO 優化 · i18n · GTM/GA 追蹤 · TDD |
+| **開發工具** | Vite · Git Flow · GitHub Actions  |
+| **AI 工程化** | Claude Code · Claude Code Skills · SDD · Context Engineering |
+
+---
+
+## Currently
+
+- 🤖 研究 AI 輔助前端開發流程（Claude Code + Skills + MCP）
+- 🏫 擔任六角學院程式專題教練，指導學員實戰開發
+- 📖 主辦 12 週成長計劃 — 前端技術研究、自我規劃與 AI 技術討論
+- 🎤 AI 講座分享，推廣 LLM 在工程流程中的實際應用
+
+---
+
+## Featured Projects
+
+### 🏨 享樂酒店訂房平台(暫不開放)
+> 獨立部署於 Render，整合 MongoDB，提供便捷訂房體驗並優化 SEO
+
+**Tech:** Nuxt 3 · Vue 3 Composition API · TypeScript · UnoCSS
+
+[GitHub Repo](https://github.com/PinyiW0/hotelBookingWeb) · [Live Demo](https://two025hotelbookingweb.onrender.com/)
+
+### 💡 DreamBoost 夢想家募資網
+> 為夢想家打造的募資平台，簡潔直觀的 UI/UX
+
+**Tech:** Vue 3 Options API · Bootstrap 5 · Vite · ESLint
+
+[GitHub Repo](https://github.com/PinyiW0/DreamBoost/tree/main) · [Live Demo](https://pinyiw0.github.io/DreamBoost/#/) · [後台管理](https://pinyiw0.github.io/DreamBoost/#/admin/login)
+
+### 🐱 搜趣找喵 — 流浪動物收容所檢索網
+> 整合收容所資訊，快速找到貓咪領養資訊
+
+**Tech:** Bootstrap 5 · Vite
+
+[GitHub Repo](https://github.com/PinyiW0/project_SearchforMeow) · [Live Demo](https://pinyiw0.github.io/project_SearchforMeow/)
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-wpypy8@gmail.com-00DC82?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wpypy8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PinyiW0-00DC82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PinyiW0)
+[![Blog](https://img.shields.io/badge/Blog-Medium-00DC82?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wpypy8)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=100&section=footer" width="100%"/>
