@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=220&section=header&text=PinyiW0&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Frontend%20Engineer%20|%20Vue%203%20|%20Nuxt&descAlignY=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,30&height=220&section=header&text=Pinyi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Frontend%20Engineer%20|%20Vue%203%20|%20Nuxt&descAlignY=50&descSize=18" width="100%"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/PinyiW0?logo=GitHub&style=for-the-badge&color=00DC82)](https://github.com/PinyiW0)
 [![GitHub Stars](https://img.shields.io/github/stars/PinyiW0?logo=github&style=for-the-badge&color=00DC82)](https://github.com/PinyiW0)
