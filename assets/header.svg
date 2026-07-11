@@ -19,11 +19,11 @@
   <!-- 兩層半透明波浪原地變形、相位差半週期交錯（capsule-render 原版動畫，等比拉高至 260） -->
   <g transform="scale(1,1.1818)">
     <path fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="32s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
+      <animate attributeName="d" dur="28s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
         values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z"/>
     </path>
     <path fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="32s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" begin="-16s"
+      <animate attributeName="d" dur="28s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" begin="-14s"
         values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z"/>
     </path>
   </g>
