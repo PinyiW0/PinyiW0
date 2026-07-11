@@ -1,32 +1,31 @@
-<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pinyi — Frontend Engineer">
+<svg viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pinyi — Frontend Engineer">
+  <style>
+    .text { font-size: 42px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans TC',Helvetica,Arial,sans-serif; }
+    .desc { font-size: 18px; font-weight: 500; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans TC',Helvetica,Arial,sans-serif; }
+    .text, .desc { animation: twinkling 4s ease-in-out infinite; }
+    @keyframes twinkling { 40% { opacity: 1; } 50% { opacity: .5; } 60% { opacity: 1; } 70% { opacity: .5; } 80% { opacity: 1; } }
+  </style>
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#003d29"/>
-      <stop offset=".5" stop-color="#00DC82"/>
-      <stop offset="1" stop-color="#00b368"/>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#003d29"/>
+      <stop offset="50%" stop-color="#00DC82"/>
+      <stop offset="100%" stop-color="#00b368"/>
     </linearGradient>
   </defs>
 
   <!-- 固定底色：深淺模式下完全一致。想墊白色改 #ffffff -->
-  <rect width="1200" height="220" fill="#0d1117"/>
+  <rect width="854" height="220" fill="#0d1117"/>
 
-  <!-- 後層波浪：反向慢速漂移，做層次 -->
-  <g transform="translate(-300,14)" opacity=".35">
-    <g>
-      <path fill="url(#g)" d="M0 0 H2400 V150 C2300 190 2200 190 2100 150 C2000 110 1900 110 1800 150 C1700 190 1600 190 1500 150 C1400 110 1300 110 1200 150 C1100 190 1000 190 900 150 C800 110 700 110 600 150 C500 190 400 190 300 150 C200 110 100 110 0 150 Z"/>
-      <animateTransform attributeName="transform" type="translate" values="0 0; -600 0" dur="10s" repeatCount="indefinite"/>
-    </g>
-  </g>
+  <!-- 兩層半透明波浪原地變形、相位差 10s 交錯（同 capsule-render 原版） -->
+  <path fill="url(#linear)" opacity="0.4">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
+      values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z"/>
+  </path>
+  <path fill="url(#linear)" opacity="0.4">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" begin="-10s"
+      values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z"/>
+  </path>
 
-  <!-- 主波浪 -->
-  <g>
-    <path fill="url(#g)" d="M0 0 H2400 V150 C2300 190 2200 190 2100 150 C2000 110 1900 110 1800 150 C1700 190 1600 190 1500 150 C1400 110 1300 110 1200 150 C1100 190 1000 190 900 150 C800 110 700 110 600 150 C500 190 400 190 300 150 C200 110 100 110 0 150 Z"/>
-    <animateTransform attributeName="transform" type="translate" values="0 0; -1200 0" dur="7s" repeatCount="indefinite"/>
-  </g>
-
-  <text x="600" y="76" text-anchor="middle" font-family="'Segoe UI','Noto Sans TC',sans-serif" font-size="42" font-weight="700" fill="#fff">Pinyi</text>
-  <text x="600" y="106" text-anchor="middle" font-family="'Segoe UI','Noto Sans TC',sans-serif" font-size="17" fill="#fff" opacity=".85">
-    Frontend Engineer · Nuxt · SDD × AI-Native Workflow
-    <animate attributeName="opacity" values=".85;.55;.85" dur="4s" repeatCount="indefinite"/>
-  </text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="30%" class="text" fill="#fff">Pinyi</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="desc" fill="#fff">Frontend Engineer · Nuxt · SDD × AI-Native Workflow</text>
 </svg>
