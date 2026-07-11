@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#003d29"/>
+      <stop offset=".5" stop-color="#00DC82"/>
+      <stop offset="1" stop-color="#00b368"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="#0d1117"/>
+  <g transform="translate(0,100) scale(1,-0.5)">
+    <g>
+      <path fill="url(#g)" d="M0 0 H2400 V150 C2300 190 2200 190 2100 150 C2000 110 1900 110 1800 150 C1700 190 1600 190 1500 150 C1400 110 1300 110 1200 150 C1100 190 1000 190 900 150 C800 110 700 110 600 150 C500 190 400 190 300 150 C200 110 100 110 0 150 Z"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; -1200 0" dur="7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
