@@ -20,7 +20,7 @@ const pinyi = {
     'Nuxt 3 → 4 升級與標準化模板建立',
     '將 LLM 內建進團隊工程流程（Prompt 邊界 + AI Code Review 防線）',
   ],
-  communities: ['六角學院院長級專題教練', '12 週成長計劃主辦人'],
+  communities: ['六角學院專題教練', '12 週成長計劃主辦人'],
   motto: '能做也能教',
 }
 ```
